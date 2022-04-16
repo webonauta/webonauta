@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-### <div align="center">I'm a passionate support engineer, devops trainee and software engineer from Mexico city</div>  
+<div align="center">I'm a passionate support engineer, devops trainee and software engineer from Mexico city</div>
 
 - 🌱 I’m currently learning **DevOps and QA Testing**
 
